@@ -1,5 +1,6 @@
 let express = require("express");
 let mongoose = require("mongoose");
+let cors = require("cors");
 const enquiryRouter = require("./App/routes/web/enquiryRoutes");
 
 require("dotenv").config();
@@ -7,6 +8,7 @@ require("dotenv").config();
 let app = express();
 
 app.use(express.json());
+app.use(cors());
 
 // Routes
 app.use("/web/api/enquiry", enquiryRouter);
