@@ -123,10 +123,3 @@ We welcome contributions! If you would like to contribute to this project, pleas
 
 Please ensure your code follows the project's style guidelines and includes appropriate tests.
 
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-For more details, check the [Releases](https://github.com/Djjof/UserEnquiry---MERN-Stack/releases) section. 
-
-Thank you for checking out the **UserEnquiry---MERN-Stack** repository! If you have any questions or suggestions, feel free to reach out. Happy coding!
